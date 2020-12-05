@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/adib.firman/.nvm/versions/node/v14.15.1/bin/node /Users/adib.firman/.nvm/versions/node/v14.15.1/bin/yarn add -D @babel/clue @babel/core
+
+PATH: 
+  /Users/adib.firman/.nvm/versions/node/v14.15.1/bin:/Users/adib.firman/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/adib.firman/.nvm/versions/node/v14.15.1/bin:/Users/adib.firman/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@babel%2fclue: Not found
+      at Request.params.callback [as _callback] (/Users/adib.firman/.nvm/versions/node/v14.15.1/lib/node_modules/yarn/lib/cli.js:66988:18)
+      at Request.self.callback (/Users/adib.firman/.nvm/versions/node/v14.15.1/lib/node_modules/yarn/lib/cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/Users/adib.firman/.nvm/versions/node/v14.15.1/lib/node_modules/yarn/lib/cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/Users/adib.firman/.nvm/versions/node/v14.15.1/lib/node_modules/yarn/lib/cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
